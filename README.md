@@ -991,6 +991,7 @@ shap_values = shap.TreeExplainer(model).shap_values(features)
 
 
 [기말_플젝.ipynb](https://github.com/user-attachments/files/24253875/_.ipynb)
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
