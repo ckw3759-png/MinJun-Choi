@@ -1,4 +1,5 @@
-# MinJun-Choi[기말_플젝.ipynb](https://github.com/user-attachments/files/24253584/_.ipynb)
+# MinJun-Choi
+[기말_플젝.ipynb](https://github.com/user-attachments/files/24253584/_.ipynb)
 [README.md](https://github.com/user-attachments/files/24253580/README.md)# 한국 금융 뉴스 기반 Linguistic Alpha 발굴 프로젝트
 
 **BERT + LSTM 앙상블을 활용한 주가 초과수익률 예측 시스템**
